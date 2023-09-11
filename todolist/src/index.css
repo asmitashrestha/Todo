@@ -1,0 +1,44 @@
+
+h1{
+  color:rgb(58, 18, 18);
+  font-size: 35px;
+  justify-content: center;
+  text-align: center;
+
+}
+.adds{
+  background-color: rgb(16, 224, 172);
+  height: 600px;
+  width:900px;
+  position: relative;
+  left: 230px;
+  
+}
+.adds input, .adds button{
+  padding: 15px 30px;
+  border: none;
+}
+.adds button{
+  
+  background-color: rgb(231, 212, 212);
+  border-radius: 5px;
+}
+
+.adds button, .adds input:hover{
+  background-color: antiquewhite;
+}
+.formadd{
+  margin-top: 5px;
+  position: relative;
+  left: 270px;
+  top: 30px;
+}
+ul{
+  position: relative;
+  top: 30px;
+  left: 160px;
+  color: rgb(21, 50, 75);
+}
+li button{
+  display: inline;
+}
